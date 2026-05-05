@@ -1,0 +1,22 @@
+[
+  {
+    "text": "прнл",
+    "done": true,
+    "deadline": "2026-04-30"
+  },
+  {
+    "text": "ммод д",
+    "done": false,
+    "deadline": "2026-05-01"
+  },
+  {
+    "text": "do project",
+    "done": false,
+    "deadline": "2026-05-06"
+  },
+  {
+    "text": "java exam",
+    "done": false,
+    "deadline": "2026-05-04"
+  }
+]

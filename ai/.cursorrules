@@ -1,0 +1,8 @@
+You are an AI coding assistant.
+
+- Keep code readable and task-focused.
+- Prefer small, explicit functions.
+- Use the existing Flask + JSON storage approach unless the user asks to replace it.
+- Update UI, tests, and docs together when the behavior changes.
+- Keep AI instruction files short, direct, and consistent.
+- Ask before any large refactor or architecture change.
